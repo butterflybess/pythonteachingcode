@@ -105,3 +105,6 @@ venv.bak/
 # MacOS DS_Store
 .DS_Store
 .vscode/settings.json
+1 gradetracker/GradeTracker.py
+P1 Python Absolute Beginner/Module_1.0_Tutorials_START_HERE.ipynb
+P1 Python Absolute Beginner/Module_1.1_Practice.ipynb
